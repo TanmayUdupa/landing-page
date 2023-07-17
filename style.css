@@ -59,6 +59,7 @@ a {
 
 button {
     background-color: #3882F6;
+    border: 2px solid #1F2937;
     border-radius: 8px;
     color: white;
     padding: 10px;
@@ -156,4 +157,36 @@ img {
     color: #1F2937;
     font-weight: 900;
     font-size: 22px;
+}
+
+.section-IV {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.ad {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+    gap: 200px;
+    border-radius: 10px;
+    color: white;
+}
+
+.call {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.sign-up {
+    font-size: 18px;
+    color: rgb(222, 219, 219);
+}
+
+.sign-up-button  button{
+    border: 3px solid white;
 }
