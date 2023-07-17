@@ -1,6 +1,6 @@
 # landing-page
 
-This is a project in which I'll be creating a web page using HTML and CSS.
+This is a project in which I will be creating a web page using HTML and CSS. Flexbox is used in order to arrange the items within the web page.
 
 **Acknowledgements**
 Website image from Wikimedia Commons
