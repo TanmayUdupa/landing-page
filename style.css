@@ -62,8 +62,9 @@ button {
     border: 2px solid #1F2937;
     border-radius: 8px;
     color: white;
-    padding: 10px;
-    width: 150px;
+    padding: 5px;
+    width: 140px;
+    height: 40px;
     font-weight: bolder;
     font-size: large;
 }
@@ -172,7 +173,7 @@ img {
     display: flex;
     justify-content: space-between;
     padding: 50px 100px;
-    gap: 200px;
+    gap: 160px;
     border-radius: 10px;
     color: white;
 }
@@ -189,4 +190,14 @@ img {
 
 .sign-up-button  button{
     border: 3px solid white;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 18px;
 }
