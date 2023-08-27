@@ -8,3 +8,5 @@ This is a project in which I will be creating a web page using HTML and CSS. Fle
 *Snow* image by [Simon Berger](https://www.pexels.com/@8moments/)  
 *Desert* image by [Moussa Idrissi](https://www.pexels.com/@mographe/)  
 *Flowers* image by [🇹🇷 Bulut](https://www.pexels.com/@bulutsadehanim/)  
+
+Live preview: [Landing Page](https://tanmayudupa.github.io/landing-page/)
